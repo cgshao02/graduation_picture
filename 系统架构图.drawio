@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="A-eHHzK-GCT5FrcxM3si">
-    <mxGraphModel dx="3265" dy="3059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5224" dy="4193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,10 +185,7 @@
           <mxGeometry x="2180" y="-241.54999999999995" width="610" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-120" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;大模型打判服务&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="-150" width="280" height="76.57" as="geometry" />
-        </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-121" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;小模型打判服务&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2505" y="-150" width="280" height="76.57" as="geometry" />
+          <mxGeometry x="2352.5" y="-150" width="280" height="76.57" as="geometry" />
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-123" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;语音交互管道&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2180" y="-445" width="610" height="135" as="geometry" />
@@ -373,7 +370,7 @@
             <mxPoint x="740" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-246" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;外部依赖&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="sV2P0FJGSlzIeBvPtXu7-246" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;外部依赖(智能测、通讯基建)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2150" y="-930" width="658" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-247" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">

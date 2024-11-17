@@ -193,10 +193,10 @@
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-123" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;语音交互管道&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2180" y="-445" width="610" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-135" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;操作视频&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sV2P0FJGSlzIeBvPtXu7-135" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;协议签署&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="299.38" y="-753.2099999999999" width="180" height="126.41" as="geometry" />
         </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-136" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;视频交互考试&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sV2P0FJGSlzIeBvPtXu7-136" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;学习视频&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="-753.2099999999999" width="180" height="126.41" as="geometry" />
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-139" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;学习文档&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
@@ -214,8 +214,8 @@
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-143" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;普通话考试&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="-210" width="130" height="76.57" as="geometry" />
         </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-144" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;参考答案&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="655" y="-220" width="130" height="76.57" as="geometry" />
+        <mxCell id="sV2P0FJGSlzIeBvPtXu7-144" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;视频交互考试&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-210" width="215" height="76.57" as="geometry" />
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-145" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=3;strokeColor=#7A7A7A;" edge="1" parent="1" target="sV2P0FJGSlzIeBvPtXu7-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -279,9 +279,6 @@
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-160" value="&lt;font size=&quot;1&quot; color=&quot;#7a7a7a&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;mq&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2060" y="130" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-167" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;普通话面试&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="-210" width="130" height="76.57" as="geometry" />
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-168" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;案例&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2130" y="720" width="127.5" height="30" as="geometry" />

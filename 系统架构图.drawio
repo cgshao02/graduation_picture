@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="A-eHHzK-GCT5FrcxM3si">
-    <mxGraphModel dx="5224" dy="4193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3265" dy="3059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,6 +399,9 @@
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-263" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;热线会话&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1331" y="-680" width="209" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sV2P0FJGSlzIeBvPtXu7-270" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Redis&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1491.25" y="1170" width="198.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -70,7 +70,7 @@
             <mxPoint x="5" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MMp17TeAA0zZRWLuz8M-15" value="分类" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4MMp17TeAA0zZRWLuz8M-15" value="知识分类" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616.3" y="120" width="63.7" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4MMp17TeAA0zZRWLuz8M-16" value="参考话术" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -175,10 +175,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MMp17TeAA0zZRWLuz8M-36" value="热线" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4MMp17TeAA0zZRWLuz8M-36" value="热线配置" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4MMp17TeAA0zZRWLuz8M-37" value="在线" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4MMp17TeAA0zZRWLuz8M-37" value="在线配置" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="500" width="82.15" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4MMp17TeAA0zZRWLuz8M-38" value="" style="endArrow=open;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4MMp17TeAA0zZRWLuz8M-4" target="4MMp17TeAA0zZRWLuz8M-37" edge="1">

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.9.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.8.9">
   <diagram name="Page-1" id="FqooyFmTY3fzpK1Q1sfx">
-    <mxGraphModel dx="2960" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2696" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,12 +21,6 @@
         </mxCell>
         <mxCell id="H09vqWeSScP_DGjtH38k-25" value="&lt;span style=&quot;font-size: 16px&quot;&gt;学员训练端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-330" y="80" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H09vqWeSScP_DGjtH38k-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.316;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#999999;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700.8400000000001" y="666.6099999999997" as="sourcePoint" />
-            <mxPoint x="700" y="113.3900000000001" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="H09vqWeSScP_DGjtH38k-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#999999;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -175,7 +169,7 @@
         <mxCell id="H09vqWeSScP_DGjtH38k-147" value="训练结果展示" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="730" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8XJu3Eyy3YQmSrcErHZ6-1" value="情景模拟,操作" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;rotation=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8XJu3Eyy3YQmSrcErHZ6-1" value="情景模拟,操作" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;rotation=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-900" y="332.5" width="100" height="35" as="geometry" />
         </mxCell>
       </root>

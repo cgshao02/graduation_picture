@@ -1,9 +1,140 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="第 1 页" id="xMs5ethXwr31YWxXagnM">
-    <mxGraphModel>
+    <mxGraphModel dx="1261" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bpMVPfvarfv760es7vRu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bpMVPfvarfv760es7vRu-1" target="bpMVPfvarfv760es7vRu-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-1" value="面向企业客服的智能仿真训练平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bpMVPfvarfv760es7vRu-2" target="bpMVPfvarfv760es7vRu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-2" value="资源管理子模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-4" value="数据调度子模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-5" value="仿真训练子模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bpMVPfvarfv760es7vRu-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bpMVPfvarfv760es7vRu-1" target="bpMVPfvarfv760es7vRu-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-9" value="培&lt;br&gt;训&lt;br&gt;任&lt;br&gt;务&lt;br&gt;配&lt;br&gt;置&lt;br&gt;管&lt;br&gt;理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-21" value="线&lt;br&gt;上&lt;div&gt;工&lt;br&gt;单&lt;br&gt;案&lt;br&gt;例&lt;br&gt;配&lt;br&gt;置&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bpMVPfvarfv760es7vRu-2" target="bpMVPfvarfv760es7vRu-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="400" as="sourcePoint" />
+            <mxPoint x="270" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-23" value="课&lt;br&gt;程&lt;br&gt;考&lt;br&gt;试&lt;br&gt;配&lt;br&gt;置" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-24" value="人&lt;br&gt;员&lt;br&gt;统&lt;div&gt;计&lt;br&gt;数&lt;br&gt;据&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-25" value="技&lt;br&gt;能&lt;br&gt;认&lt;br&gt;证&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-26" value="异&lt;br&gt;步&lt;br&gt;任&lt;br&gt;务&lt;br&gt;调&lt;br&gt;度&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-27" value="同&lt;br&gt;步&lt;br&gt;任&lt;br&gt;务&lt;br&gt;调&lt;br&gt;度&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-28" value="统&lt;br&gt;计&lt;br&gt;数&lt;br&gt;据&lt;br&gt;调&lt;br&gt;度&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-29" value="在&lt;br&gt;线&lt;br&gt;仿&lt;br&gt;真&lt;br&gt;训&lt;br&gt;练&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-30" value="热&lt;br&gt;线&lt;br&gt;仿&lt;br&gt;真&lt;br&gt;训&lt;br&gt;练&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-31" value="智&lt;br&gt;能&lt;br&gt;打&lt;br&gt;判&lt;br&gt;实&lt;br&gt;时&lt;br&gt;辅&lt;br&gt;导&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="390" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="bpMVPfvarfv760es7vRu-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="350" as="sourcePoint" />
+            <mxPoint x="190" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="350" />
+              <mxPoint x="130" y="370" />
+              <mxPoint x="135" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="bpMVPfvarfv760es7vRu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="350" as="sourcePoint" />
+            <mxPoint x="220" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="350" />
+              <mxPoint x="130" y="370" />
+              <mxPoint x="215" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bpMVPfvarfv760es7vRu-2" target="bpMVPfvarfv760es7vRu-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="370" />
+              <mxPoint x="285" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bpMVPfvarfv760es7vRu-4" target="bpMVPfvarfv760es7vRu-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+            <mxPoint x="500" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bpMVPfvarfv760es7vRu-4" target="bpMVPfvarfv760es7vRu-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint" />
+            <mxPoint x="490" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="bpMVPfvarfv760es7vRu-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="350" as="sourcePoint" />
+            <mxPoint x="520" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="370" />
+              <mxPoint x="515" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bpMVPfvarfv760es7vRu-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bpMVPfvarfv760es7vRu-5" target="bpMVPfvarfv760es7vRu-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="400" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

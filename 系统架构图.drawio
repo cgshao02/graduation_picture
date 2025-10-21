@@ -286,12 +286,6 @@
             <mxPoint x="2407.5" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-208" value="&lt;font&gt;MySQL&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=42;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="1170" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-209" value="&lt;font&gt;ES&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=42;" parent="1" vertex="1">
-          <mxGeometry x="1182.81" y="1170" width="198.75" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-217" value="" style="group;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=0" parent="1" vertex="1" connectable="0">
           <mxGeometry x="710" y="710" width="390" height="410" as="geometry" />
         </mxCell>
@@ -352,11 +346,8 @@
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-246" value="&lt;font&gt;&lt;b&gt;外部依赖(智能测、通讯基建)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fontSize=37;" parent="1" vertex="1">
           <mxGeometry x="2150" y="-930" width="658" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-257" value="&lt;font&gt;MySQL&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=42;" parent="1" vertex="1">
-          <mxGeometry x="820" y="1169" width="200" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-258" value="&lt;font&gt;ES&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=42;" parent="1" vertex="1">
-          <mxGeometry x="2153.75" y="1169" width="198.75" height="80" as="geometry" />
+          <mxGeometry x="1957.5" y="1143.5" width="332.5" height="121" as="geometry" />
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.161;entryY=0.684;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;" parent="1" source="sV2P0FJGSlzIeBvPtXu7-26" target="sV2P0FJGSlzIeBvPtXu7-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -366,9 +357,6 @@
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-263" value="&lt;font&gt;&lt;span&gt;热线模拟训练&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#838A93;strokeWidth=3;fillColor=none;fontSize=43;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1230" y="-680" width="260" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="sV2P0FJGSlzIeBvPtXu7-270" value="&lt;span&gt;Redis&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=42;" parent="1" vertex="1">
-          <mxGeometry x="1491.25" y="1170" width="198.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dlRur3L15nMgBuN5fwYe-1" value="讲师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=42;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="20" y="385" width="100" height="160" as="geometry" />
@@ -387,6 +375,12 @@
         </mxCell>
         <mxCell id="sV2P0FJGSlzIeBvPtXu7-250" value="Kafka(MQ)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=43;strokeColor=#838A93;" parent="1" vertex="1">
           <mxGeometry x="1750" y="-282.5" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="W-SBKlxeB2j3nmraoZ-U-12" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="1367.5" y="1143.5" width="332.5" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="W-SBKlxeB2j3nmraoZ-U-13" value="MySQL" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1140" width="332.5" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
